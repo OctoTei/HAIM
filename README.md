@@ -1,4 +1,3 @@
-code-of-HAIM
 HAIM is a solver for the Maximum Set k-Covering Problem.
 
 The input format
